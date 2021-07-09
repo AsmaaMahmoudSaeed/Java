@@ -1,5 +1,5 @@
 # java
-## this repo for solved exercise of java and uml programming course
+## this repo for Java project and solved exercise of java and uml programming course
 ## this course included in The Artificial Intelligence Professional (AI-Pro) program is a 9-month provided by Ministry of Communications and Information Technology (Egypt)
 
 
